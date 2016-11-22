@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -7,7 +7,7 @@ using System.Web.Routing;
 
 namespace First_Application
 {
-    public class MvcApplication : System.Web.HttpApplication
+    public class MvcApplications : System.Web.HttpApplication
     {
         protected void Application_Start()
         {
